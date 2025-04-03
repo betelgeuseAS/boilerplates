@@ -58,11 +58,11 @@ We appreciate your support and look forward to making our project even better wi
 It takes a lot of time to create a high-quality project. This project is fully self-funded. This is where you can help: by contributing, you can ensure that more time is spent on improving the project rather than on distractions.
 
 <a href="https://buymeacoffee.com/betelgeuseo" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me a Coffee" style="height: 41px !important; width: 174px !important;">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me a Coffee" style="height: 41px !important; width: 174px !important;" />
 </a>
 &nbsp;or&nbsp;
-<a href="https://www.paypal.com/donate/?hosted_button_id=327N24D6QDLVC">
-	<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="PayPal" style="height: 41px !important; width: 174px !important;">
+<a href="https://www.paypal.com/donate/?hosted_button_id=327N24D6QDLVC" target="_blank">
+	<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="PayPal" style="height: 41px !important; width: 174px !important;" />
 </a>
 
 You can support the author either on a regular basis or as a one-time donation 🙏.
