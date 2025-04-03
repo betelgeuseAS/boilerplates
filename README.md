@@ -60,7 +60,7 @@ It takes a lot of time to create a high-quality project. This project is fully s
 <a href="https://buymeacoffee.com/betelgeuseo" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me a Coffee" style="height: 41px !important; width: 174px !important;">
 </a>
-<span style="margin: 0 10px;">or</span>
+&nbsp;or&nbsp;
 <a href="https://www.paypal.com/donate/?hosted_button_id=327N24D6QDLVC">
 	<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="PayPal" style="height: 41px !important; width: 174px !important;">
 </a>
