@@ -1,6 +1,6 @@
-# Boilerplates
-
 <a id="top"></a>
+
+# Boilerplates
 
 [![Repo Version][repo_version_img]][repo_url]
 [![Repo Size][repo_size_img]][repo_url]
@@ -10,7 +10,9 @@
 
 ## 🔍 Overview
 
-This repository contains starter templates (**boilerplates**) that you can use when starting a new project.
+This repository contains starter **templates / boilerplates** that you can use when starting a new project.
+
+Each template has its own technical stack that you can supplement or modify depending on the needs of your project.
 
 <div align="right">
     <kbd>
@@ -25,6 +27,15 @@ This repository contains starter templates (**boilerplates**) that you can use w
 Globally, templates are divided into categories: `front-end`, `back-end`, and `full-stack`, which is reflected in the name of the directories located at the root of the repository.
 
 Each template contains its own documentation in the `README.md` file of the template itself.
+
+A list of templates you can use:
+
+- Front-End (`front-end` directory)
+    - `In Progress...`
+- Back-End (`back-end` directory)
+    - `In Progress...`
+- Full-Stack (`full-stack` directory)
+    - `In Progress...`
 
 <div align="right">
     <kbd>
@@ -115,4 +126,4 @@ The MIT License (MIT) 2025 - [Andrew Samchuk][author_url]. Please have a look at
 
 [repo_url]: https://github.com/betelgeuseAS/boilerplates
 [repo_issues_url]: https://github.com/betelgeuseAS/boilerplates/issues
-[repo_license_url]: https://github.com/betelgeuseAS/boilerplates/blob/master/LICENSE
+[repo_license_url]: https://github.com/betelgeuseAS/boilerplates/blob/master/LICENSE.md
